@@ -3,7 +3,7 @@ layout: post
 title: "Hoe ik deze website bouwde"
 image: /assets/img/site-workflow.png
 description: "Een kijkje achter de schermen van mijn GitHub Pages & Jekyll setup."
-date: 2024-05-31
+date: 2025-05-31
 ---
 
 # Hoe ik deze website bouwde

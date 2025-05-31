@@ -1,22 +1,45 @@
-.card-grid {
+.card-grid, .about-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: space-between;
+  gap: 20px;
+  justify-content: flex-start;
 }
 
-.card {
-  flex: 0 1 calc(33% - 1rem);
-  border: 1px solid #ccc;
-  padding: 1rem;
+.card, .about-card {
+  flex: 0 1 calc(33% - 20px);
+  background: #f9f9f9;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card img, .about-card img {
+  width: 100%;
   border-radius: 8px;
-  background: white;
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-  box-sizing: border-box;
+  margin-bottom: 10px;
 }
 
-.card img {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 0.5rem;
+.card h3, .about-card h3 {
+  margin-top: 0;
+}
+
+.card p, .about-card p {
+  color: #666;
+}
+
+.intro-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.intro-flex .intro-text {
+  flex: 1;
+}
+
+.intro-flex img {
+  width: 180px;
+  border-radius: 10px;
 }

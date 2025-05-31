@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Welkom
 ---
 
 # Welkom op mijn e-portfolio
@@ -18,10 +18,20 @@ title: Home
 - [Over mij](about.md)
 - [Hoe ik deze site bouwde](2025-05-31-how-i-built-this.md)
 
-## Posts / Artikels
+## 📚 Posts
 
-- [PR-activiteit](posts/pr-activiteit.md)
-- [Actieve event](posts/actieve-event.md)
-- [Passieve event 1: Baserow](posts/2024-10-22-baserow.md)
-- [Passieve event 2](posts/passieve-event-2.md)
-- [Extra 1](posts/extra-1.md)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+
+{% for post in site.posts limit:6 %}
+  <div style="flex: 0 1 calc(33% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="Post afbeelding" style="width: 100%; border-radius: 8px;"/>
+      {% endif %}
+      <h3 style="margin-top: 10px;">{{ post.title }}</h3>
+      <p style="color: #666;">{{ post.description }}</p>
+    </a>
+  </div>
+{% endfor %}
+
+</div>

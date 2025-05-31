@@ -3,6 +3,8 @@ layout: default
 title: Welkom
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Welkom op mijn e-portfolio
 
 <div class="intro-flex">

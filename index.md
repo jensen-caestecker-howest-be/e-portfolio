@@ -33,5 +33,21 @@ title: Welkom
 
 ## Over
 
-- [Over mij](about.md)
-- [Hoe ik deze site bouwde](2025-05-31-how-i-built-this.md)
+## 📄 Over
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+
+{% assign about_pages = site.pages | where_exp: "p", "p.permalink contains '/over'" or "p.url contains 'how-i-built'" %}
+{% for page in about_pages %}
+  <div style="flex: 0 1 calc(33% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <a href="{{ page.url | relative_url }}" style="text-decoration: none; color: inherit;">
+      {% if page.image %}
+        <img src="{{ page.image }}" alt="Afbeelding {{ page.title }}" style="width: 100%; border-radius: 8px;"/>
+      {% endif %}
+      <h3 style="margin-top: 10px;">{{ page.title }}</h3>
+      <p style="color: #666;">{{ page.description }}</p>
+    </a>
+  </div>
+{% endfor %}
+
+</div>

@@ -1,0 +1,22 @@
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.card {
+  flex: 0 1 calc(33% - 1rem);
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+  background: white;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 0.5rem;
+}

@@ -11,7 +11,7 @@ Via deze site geef ik je een inkijk in mijn interesses, vaardigheden en ervaring
 ## Navigatie
 
 - [Over mij](about.md)
-- [Hoe ik deze site bouwde](hoe-ik-deze-site-maakte.md)
+- [Hoe ik deze site bouwde](how-i-built-this-site.md)
 
 ## Posts / Artikels
 

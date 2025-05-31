@@ -5,8 +5,13 @@ title: Home
 
 # Welkom op mijn e-portfolio
 
-Ik ben Jensen Caestecker, laatstejaarsstudent Toegepaste Informatica met een passie voor AI, algoritmes en technologie.  
-Via deze site geef ik je een inkijk in mijn interesses, vaardigheden en ervaringen in de IT-wereld.
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="assets/img/20230913_124810.jpg" alt="Jensen Caestecker" style="width: 180px; border-radius: 10px;">
+  <div>
+    <h2>Over mij</h2>
+    <p>Als een gepassioneerde techenthousiast met een sterke focus op AI en algoritmes wil ik meebouwen aan innovatieve oplossingen die de wereld van morgen helpen vormgeven.</p>
+  </div>
+</div>
 
 ## Navigatie
 

@@ -13,11 +13,6 @@ title: Welkom
   <img src="assets/img/20230913_124810.jpg" alt="Jensen Caestecker" style="width: 180px; border-radius: 10px;">
 </div>
 
-## Navigatie
-
-- [Over mij](about.md)
-- [Hoe ik deze site bouwde](2025-05-31-how-i-built-this.md)
-
 ## 📚 Posts
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
@@ -35,3 +30,8 @@ title: Welkom
 {% endfor %}
 
 </div>
+
+## Over
+
+- [Over mij](about.md)
+- [Hoe ik deze site bouwde](2025-05-31-how-i-built-this.md)

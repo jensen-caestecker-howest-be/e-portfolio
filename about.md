@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Over mij"
+description: "Mijn achtergrond, interesses en professionele ervaring."
+image: /assets/img/20230913_124810.jpg
+permalink: /over/
+---
+
 # Over mij
 
 👋 Hallo! Ik ben **Jensen Caestecker**, een gepassioneerde softwareontwikkelaar met een sterke focus op **kunstmatige intelligentie**, **algoritmes**, en **innovatieve technologieën**. Mijn droom? Meebouwen aan de slimme oplossingen die morgen beter maken dan vandaag.

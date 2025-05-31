@@ -22,6 +22,6 @@ title: Home
 
 - [PR-activiteit](posts/pr-activiteit.md)
 - [Actieve event](posts/actieve-event.md)
-- [Passieve event 1](posts/passieve-event-1.md)
+- [Passieve event 1: Baserow](posts/2024-10-22-baserow.md)
 - [Passieve event 2](posts/passieve-event-2.md)
 - [Extra 1](posts/extra-1.md)

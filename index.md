@@ -5,12 +5,12 @@ title: Home
 
 # Welkom op mijn e-portfolio
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="assets/img/20230913_124810.jpg" alt="Jensen Caestecker" style="width: 180px; border-radius: 10px;">
-  <div>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
     <h2>Over mij</h2>
     <p>Als een gepassioneerde techenthousiast met een sterke focus op AI en algoritmes wil ik meebouwen aan innovatieve oplossingen die de wereld van morgen helpen vormgeven.</p>
   </div>
+  <img src="assets/img/20230913_124810.jpg" alt="Jensen Caestecker" style="width: 180px; border-radius: 10px;">
 </div>
 
 ## Navigatie

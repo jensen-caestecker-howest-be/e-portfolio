@@ -6,7 +6,7 @@ image: /assets/img/20250531_165136.jpg
 permalink: /over/
 ---
 
-<img src="assets/img/20250531_165136.jpg" alt="Jensen Caestecker" style="width: 180px; border-radius: 10px;">
+![Profielafbeelding](/assets/img/20250531_165136.jpg){: style="float: right; width: 200px; margin-left: 20px;" }
 
 # Over mij
 

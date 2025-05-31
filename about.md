@@ -6,6 +6,8 @@ image: /assets/img/20230913_124810.jpg
 permalink: /over/
 ---
 
+<img src="assets/img/20230913_124810.jpg" alt="Jensen Caestecker" style="width: 180px; border-radius: 10px;">
+
 # Over mij
 
 👋 Hallo! Ik ben **Jensen Caestecker**, een gepassioneerde softwareontwikkelaar met een sterke focus op **kunstmatige intelligentie**, **algoritmes**, en **innovatieve technologieën**. Mijn droom? Meebouwen aan de slimme oplossingen die morgen beter maken dan vandaag.

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title: "Hoe ik deze website bouwde"
+description: "Uitleg over de technische setup van mijn e-portfolio."
 image: /assets/img/site-workflow.png
-description: "Een kijkje achter de schermen van mijn GitHub Pages & Jekyll setup."
-date: 2025-05-31
+permalink: /how-i-built-this/
 ---
 
 # Hoe ik deze website bouwde

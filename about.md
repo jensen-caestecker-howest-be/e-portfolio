@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Over mij"
 description: "Mijn achtergrond, interesses en professionele ervaring."
 image: /assets/img/20230913_124810.jpg

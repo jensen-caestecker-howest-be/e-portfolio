@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Hoe ik deze website bouwde"
 description: "Uitleg over de technische setup van mijn e-portfolio."
 image: /assets/img/site-workflow.png

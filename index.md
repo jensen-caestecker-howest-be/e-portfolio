@@ -16,7 +16,7 @@ title: Home
 ## Navigatie
 
 - [Over mij](about.md)
-- [Hoe ik deze site bouwde](how-i-built-this-site.md)
+- [Hoe ik deze site bouwde](2024-05-31-how-i-built-this.md)
 
 ## Posts / Artikels
 

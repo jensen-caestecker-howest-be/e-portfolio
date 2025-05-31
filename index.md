@@ -22,37 +22,40 @@ title: Welkom
 
 ## 📚 Posts
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-{% for post in site.posts limit:6 %}
-  <div style="flex: 0 1 calc(33% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">
-      {% if post.image %}
-        <img src="{{ post.image }}" alt="Post afbeelding" style="width: 100%; border-radius: 8px;" />
-      {% endif %}
-      <h3 style="margin-top: 10px;">{{ post.title }}</h3>
-      <p style="color: #666;">{{ post.description }}</p>
+<div class="card-grid">
+
+  <div class="card">
+    <a href="/posts/2024-10-22-baserow.html">
+      <img src="/assets/img/baserow.png" alt="Baserow als no-code database" />
+      <h3>Baserow als no-code database</h3>
+      <p>Een korte bespreking van hoe ik Baserow getest heb in combinatie met een project.</p>
     </a>
   </div>
-{% endfor %}
+
+  <!-- Voeg hier handmatig meer posts toe zoals hierboven -->
+
 </div>
 
 ---
 
 ## 📄 Over
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
+<div class="card-grid">
 
-{% assign about_pages = site.pages | where_exp: "p", "(p.url contains '/over') or (p.url contains '/how-i-built-this')" %}
-{% for page in about_pages %}
-  <div style="flex: 0 1 calc(33% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <a href="{{ page.url | relative_url }}" style="text-decoration: none; color: inherit;">
-      {% if page.image %}
-        <img src="{{ page.image }}" alt="Afbeelding {{ page.title }}" style="width: 100%; border-radius: 8px;"/>
-      {% endif %}
-      <h3 style="margin-top: 10px;">{{ page.title }}</h3>
-      <p style="color: #666;">{{ page.description }}</p>
+  <div class="card">
+    <a href="/wie-ben-ik/">
+      <img src="/assets/img/wie-ben-ik.jpg" alt="Wie ben ik" />
+      <h3>Wie ben ik</h3>
+      <p>Leer meer over mijn achtergrond, interesses en motivatie.</p>
     </a>
   </div>
-{% endfor %}
+
+  <div class="card">
+    <a href="/how-i-built-this/">
+      <img src="/assets/img/how-i-built.jpg" alt="Hoe ik deze site heb gebouwd" />
+      <h3>Hoe ik deze site heb gebouwd</h3>
+      <p>Een overzicht van de tools en technologieën die ik gebruikt heb om deze site op te bouwen.</p>
+    </a>
+  </div>
 
 </div>

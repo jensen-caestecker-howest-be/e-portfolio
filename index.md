@@ -42,7 +42,7 @@ title: Welkom
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
-{% assign about_pages = site.pages | where_exp: "p", "p.url contains 'over'" or "p.url contains 'how-i-built-this'" %}
+{% assign about_pages = site.pages | where_exp: "p", "p.url contains '/wie-ben-ik' or p.url contains '/how-i-built-this'" %}
 {% for page in about_pages %}
   <div style="flex: 0 1 calc(33% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <a href="{{ page.url | relative_url }}" style="text-decoration: none; color: inherit;">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Over mij"
+title: "Wie ik ben"
 description: "Mijn achtergrond, interesses en professionele ervaring."
 image: /assets/img/20250531_165136.jpg
 permalink: /over/

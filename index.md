@@ -31,8 +31,6 @@ title: Welkom
 
 </div>
 
-## Over
-
 ## 📄 Over
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">

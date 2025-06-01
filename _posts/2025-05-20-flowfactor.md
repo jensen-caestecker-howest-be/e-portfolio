@@ -5,6 +5,8 @@ image: /assets/img/flowfactor.jpg
 description: "Een blik op hoe FlowFactor DevOps-teams versterkt via automatisatie, Terraform, en Infrastructure as Code-praktijken."
 ---
 
+**20/05/2025**
+
 ![https://www.flowfactor.be/](/assets/img/flowfactor.jpg)
 
 FlowFactor is een Belgische DevOps-consultancy die al meer dan acht jaar organisaties ondersteunt bij het stroomlijnen van hun infrastructuurprocessen. Wat hen typeert? Een technologie-agnostische aanpak en een duidelijke missie: ontwikkelteams in staat stellen om zich te focussen op waar het écht om draait: development.

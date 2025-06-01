@@ -18,7 +18,7 @@ title: Welkom
 ## 📚 Posts
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-{% for post in site.posts %}
+  {% for post in site.posts %}
   <div style="flex: 0 1 calc(33% - 20px); background: #f9f9f9; padding: 15px; margin-bottom: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
       {% if post.image %}
@@ -28,9 +28,8 @@ title: Welkom
       <p>{{ post.description }}</p>
     </a>
   </div>
-{% endfor %}
+  {% endfor %}
 </div>
-
 
 ---
 

@@ -38,13 +38,13 @@ title: Welkom
 
 ---
 
-## 📄 Over
+## 📄 Extra
 
 <div class="card-grid">
 
   <div class="card">
-    <a href="/wie-ben-ik/">
-      <img src="/assets/img/wie-ben-ik.jpg" alt="Wie ben ik" />
+    <a href="/over/">
+      <img src="/assets/img/20230913_124810.jpg" alt="Wie ben ik" />
       <h3>Wie ben ik</h3>
       <p>Leer meer over mijn achtergrond, interesses en motivatie.</p>
     </a>
@@ -52,7 +52,7 @@ title: Welkom
 
   <div class="card">
     <a href="/how-i-built-this/">
-      <img src="/assets/img/how-i-built.jpg" alt="Hoe ik deze site heb gebouwd" />
+      <img src="/assets/img/site-workflow.png" alt="Hoe ik deze site heb gebouwd" />
       <h3>Hoe ik deze site heb gebouwd</h3>
       <p>Een overzicht van de tools en technologieën die ik gebruikt heb om deze site op te bouwen.</p>
     </a>

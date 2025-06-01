@@ -39,7 +39,7 @@ Ik koos voor GitHub Pages omdat het:
 
 - Hoe Jekyll posts en pagina's rendert op basis van front matter en mappenstructuur.
 - Het verschil tussen `site.pages` en `site.posts`.
-- Het gebruik van Liquid templates (`{% for post in site.posts %}`).
+- Het gebruik van Liquid templates (`{% raw %}{% for post in site.posts %}{% endraw %}`)
 - Hoe CSS de standaard layout kan beïnvloeden, en hoe ik dat gecontroleerd kan inzetten.
 ---
 

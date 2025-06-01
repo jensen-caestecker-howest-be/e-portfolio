@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: default
 title: "Hack The Future 2024: Code tussen de flamingo’s"
-image: /assets/img/hackthefuture-2024.jpg # voeg hier een passende afbeelding toe
 description: "Een dag vol data science, vertraging, debugging én flamingo’s tijdens Hack The Future 2024 in Antwerpen."
 ---
 

@@ -5,6 +5,8 @@ image: /assets/img/hackthefuture-2024.jpg # voeg hier een passende afbeelding to
 description: "Een dag vol data science, vertraging, debugging én flamingo’s tijdens Hack The Future 2024 in Antwerpen."
 ---
 
+**19/11/2024**
+
 Op 19 november 2024 nam ik deel aan Hack The Future 2024 in Antwerpen. Een eendaagse hackathon waar IT-studenten uit heel België samenkomen om in kleine teams te werken aan technische challenges. Dit jaar vond het plaats in de Flanders Meeting & Convention Center, ook wel bekend als *A Room with a Zoo*, omdat het letterlijk naast (en deels in) de Antwerpse Zoo ligt.
 
 ### Samenwerking met vertraging

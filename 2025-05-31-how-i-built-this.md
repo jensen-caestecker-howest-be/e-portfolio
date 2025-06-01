@@ -6,6 +6,8 @@ image: /assets/img/site-workflow.png
 permalink: /how-i-built-this/
 ---
 
+![Cayman](/assets/img/site-workflow.png)
+
 # Hoe ik deze site heb gebouwd
 
 Deze e-portfolio is gebouwd met behulp van **GitHub Pages** en **Jekyll**, een statische site generator. Het doel was om een snelle, eenvoudige en onderhoudsvriendelijke site op te zetten zonder afhankelijk te zijn van externe CMS-systemen zoals WordPress.
@@ -44,4 +46,4 @@ Ik koos voor GitHub Pages omdat het:
   
 ---
 
-Nieuwe blogposts toevoegen doe ik eenvoudig door een `.md`-bestand aan te maken in de `/posts`-map en die te linken op de homepage.
+Nieuwe blogposts toevoegen doe ik eenvoudig door een `.md`-bestand aan te maken in de `/posts`-folder en worden dan via Liquid code automatisch aan de index-pagina toegevoegd.

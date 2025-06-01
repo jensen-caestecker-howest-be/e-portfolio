@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: post
 title: "Wie ik ben"
 description: "Mijn achtergrond, interesses en professionele ervaring."
 image: /assets/img/20250531_165136.jpg
-permalink: /over/
 ---
 
 ![Profielafbeelding](/assets/img/20250531_165136.jpg){: style="float: right; width: 200px; margin-left: 20px;" }

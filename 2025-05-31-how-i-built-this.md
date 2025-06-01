@@ -42,5 +42,4 @@ Ik koos voor GitHub Pages omdat het:
 - Het gebruik van Liquid templates (`{% raw %}{% for post in site.posts %}{% endraw %}`)
 - Hoe CSS de standaard layout kan beïnvloeden, en hoe ik dat gecontroleerd kan inzetten.
 ---
-
 Nieuwe blogposts toevoegen doe ik eenvoudig door een `.md`-bestand aan te maken in de `/posts`-map en die te linken op de homepage.

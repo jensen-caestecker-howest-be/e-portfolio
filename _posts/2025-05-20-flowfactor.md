@@ -7,7 +7,7 @@ description: "Een blik op hoe FlowFactor DevOps-teams versterkt via automatisati
 
 ![https://www.flowfactor.be/](/assets/img/flowfactor.jpg)
 
-FlowFactor is een Belgische DevOps-consultancy die al meer dan acht jaar organisaties ondersteunt bij het stroomlijnen van hun infrastructuurprocessen. Wat hen typeert? Een technologie-agnostische aanpak en een duidelijke missie: ontwikkelteams in staat stellen om zich te focussen op waar het écht om draait — development.
+FlowFactor is een Belgische DevOps-consultancy die al meer dan acht jaar organisaties ondersteunt bij het stroomlijnen van hun infrastructuurprocessen. Wat hen typeert? Een technologie-agnostische aanpak en een duidelijke missie: ontwikkelteams in staat stellen om zich te focussen op waar het écht om draait: development.
 
 In deze post deel ik wat ik leerde over hun aanpak en hoe tools zoals **Terraform** en **Pulumi** daar een centrale rol in spelen.
 
@@ -19,7 +19,7 @@ FlowFactor speelt hierop in met een duidelijke strategie die draait rond automat
 
 ## Terraform bij FlowFactor
 
-Terraform is een open-source IaC-tool van HashiCorp die declaratief werkt en cloud-agnostisch is. Dat betekent dat je er infrastructuur mee kan beschrijven voor AWS, Azure, Google Cloud en meer — zonder dat je gebonden bent aan één provider.
+Terraform is een open-source IaC-tool van HashiCorp die declaratief werkt en cloud-agnostisch is. Dat betekent dat je er infrastructuur mee kan beschrijven voor AWS, Azure, Google Cloud en meer zonder dat je gebonden bent aan één provider.
 
 Een belangrijke eigenschap van Terraform is het **"state"-bestand**. Dit houdt bij wat de gewenste infrastructuur is versus wat er werkelijk draait in de cloud. Hierdoor kan Terraform slim wijzigingen toepassen — en dat is essentieel voor betrouwbare deployments.
 

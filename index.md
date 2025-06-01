@@ -44,7 +44,7 @@ title: Welkom
 
   <div class="card">
     <a href="/over/">
-      <img src="/assets/img/20230913_124810.jpg" alt="Wie ben ik" />
+      <img src="/assets/img/20250531_165136.jpg" alt="Wie ben ik" />
       <h3>Wie ben ik</h3>
       <p>Leer meer over mijn achtergrond, interesses en motivatie.</p>
     </a>
@@ -57,5 +57,4 @@ title: Welkom
       <p>Een overzicht van de tools en technologieën die ik gebruikt heb om deze site op te bouwen.</p>
     </a>
   </div>
-
 </div>

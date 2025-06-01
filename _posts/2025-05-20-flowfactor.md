@@ -23,7 +23,7 @@ FlowFactor speelt hierop in met een duidelijke strategie die draait rond automat
 
 Terraform is een open-source IaC-tool van HashiCorp die declaratief werkt en cloud-agnostisch is. Dat betekent dat je er infrastructuur mee kan beschrijven voor AWS, Azure, Google Cloud en meer zonder dat je gebonden bent aan één provider.
 
-Een belangrijke eigenschap van Terraform is het **"state"-bestand**. Dit houdt bij wat de gewenste infrastructuur is versus wat er werkelijk draait in de cloud. Hierdoor kan Terraform slim wijzigingen toepassen — en dat is essentieel voor betrouwbare deployments.
+Een belangrijke eigenschap van Terraform is het **"state"-bestand**. Dit houdt bij wat de gewenste infrastructuur is versus wat er werkelijk draait in de cloud. Hierdoor kan Terraform slim wijzigingen toepassen en dat is essentieel voor betrouwbare deployments.
 
 ### Een typische pipeline bij FlowFactor
 
@@ -82,9 +82,9 @@ Voor veiligheid gebruikt FlowFactor tools zoals:
 
 ## Mijn indruk
 
-Wat ik sterk vond aan FlowFactor is hoe ze niet vasthangen aan één technologie of cloudplatform. Ze denken mee met de klant, zetten in op automatisatie en hanteren DevOps als rode draad. Tools zoals Terraform zijn krachtig, maar alleen als je ze correct gebruikt — en dat lijkt FlowFactor goed te beheersen.
+Wat ik sterk vond aan FlowFactor is hoe ze niet vasthangen aan één technologie of cloudplatform. Ze denken mee met de klant, zetten in op automatisatie en hanteren DevOps als rode draad. Tools zoals Terraform zijn krachtig, maar alleen als je ze correct gebruikt en dat lijkt FlowFactor goed te beheersen.
 
-Pulumi lijkt veelbelovend, maar Terraform blijft voorlopig de standaard. Toch zie je dat open source, toegankelijkheid en tooling de toekomst zijn. En misschien wordt Pulumi wel de 'unicorn' van de IaC-wereld — wie weet.
+Pulumi lijkt veelbelovend, maar Terraform blijft voorlopig de standaard. Toch zie je dat open source, toegankelijkheid en tooling de toekomst zijn. En misschien wordt Pulumi wel de 'unicorn' van de IaC-wereld, wie weet.
 
 ## Afsluiter
 

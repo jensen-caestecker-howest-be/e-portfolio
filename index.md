@@ -30,7 +30,7 @@ title: Welkom
 
 ---
 
-## 📄 Over
+## 📄 Extra
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 0 1 45%; background: #f9f9f9; padding: 15px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px;">

@@ -20,7 +20,7 @@ title: Welkom
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
   <div style="width: 300px; background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
+    <a href="/2024/10/22/baserow/" style="text-decoration: none; color: inherit;">
       <img src="/assets/img/baserow.png" alt="Baserow als no-code database" style="width: 100%; border-radius: 8px;"/>
       <h3 style="margin-top: 10px;">Baserow als no-code database</h3>
       <p style="color: #666;">Een korte bespreking van hoe ik Baserow getest heb in combinatie met een project.</p>

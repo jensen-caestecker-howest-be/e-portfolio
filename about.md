@@ -12,11 +12,13 @@ permalink: /about/
 
 Mijn naam is Jensen Caestecker, student Toegepaste Informatica met een hart voor technologie, innovatie en creativiteit. Ik ben iemand die niet enkel tevreden is met “hoe iets werkt”, maar vooral wil weten *waarom* het werkt zoals het werkt — en hoe het beter kan.  
 
-Tijdens mijn opleiding ben ik in contact gekomen met allerlei domeinen binnen IT, maar het zijn vooral AI, algoritmes en softwareontwikkeling die mijn nieuwsgierigheid blijven prikkelen. Wat begon als een fascinatie voor hoe computers denken, is ondertussen uitgegroeid tot een doel: oplossingen ontwikkelen die écht een verschil maken, hoe klein of groot ook.  
+Tijdens mijn opleiding ben ik in contact gekomen met allerlei domeinen binnen IT, maar het zijn vooral AI, algoritmes en softwareontwikkeling die mijn nieuwsgierigheid blijven prikkelen. Wat begon als een fascinatie voor hoe computers denken, is ondertussen uitgegroeid tot een doel: oplossingen ontwikkelen die écht een verschil maken, hoe klein of groot ook.
 
 Ik heb altijd al graag zelf gebouwd. Zelfs wanneer er tools beschikbaar zijn, kies ik er vaak voor om de logica en werking zelf te coderen. Niet omdat ik tegen vereenvoudiging ben — integendeel — maar omdat ik het belangrijk vind om de onderliggende structuren te begrijpen. Die kennis geeft vrijheid: om te optimaliseren, om aan te passen, om écht eigenaarschap te voelen over wat je creëert.
 
 Toch zie ik ook de waarde in van tools die het voor anderen toegankelijk maken om mee te bouwen aan digitale oplossingen. Technologie moet inclusief zijn. Daarom probeer ik in projecten steeds een balans te vinden tussen flexibiliteit voor developers en gebruiksgemak voor eindgebruikers.
+
+Ik denk dat ik trouwens nog niet vermeld heb dat ik al eens ben afgestudeerd aan Howest. In 2023 kreeg ik mijn diploma voor de Graduaat Programmeren in handen. Dit was voor mij een groot mijlpaal en iets waar ik tot op heden nog steeds trots op ben. Hopelijk ben ik binnekort dan ook nog een diploma rijker 😃.
 
 ## Mijn aanpak
 

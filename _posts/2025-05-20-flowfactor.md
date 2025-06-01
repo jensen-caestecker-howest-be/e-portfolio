@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "FlowFactor en de kracht van Infrastructure as Code"
 image: /assets/img/flowfactor.jpg
 description: "Een blik op hoe FlowFactor DevOps-teams versterkt via automatisatie, Terraform, en Infrastructure as Code-praktijken."

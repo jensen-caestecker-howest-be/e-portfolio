@@ -19,7 +19,7 @@ title: Welkom
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
-  <div style="flex: 0 1 calc(33% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <div style="width: 300px; background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <a href="{{ '/posts/2024-10-22-baserow.html' | relative_url }}" style="text-decoration: none; color: inherit;">
       <img src="/assets/img/baserow.png" alt="Baserow als no-code database" style="width: 100%; border-radius: 8px;"/>
       <h3 style="margin-top: 10px;">Baserow als no-code database</h3>
@@ -27,7 +27,7 @@ title: Welkom
     </a>
   </div>
 
-  <!-- Voeg hier meer posts toe volgens hetzelfde patroon -->
+  <!-- Voeg meer cards toe zoals hierboven -->
 
 </div>
 
@@ -37,7 +37,7 @@ title: Welkom
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
-  <div style="flex: 0 1 calc(50% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <div style="width: 300px; background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <a href="{{ '/about.html' | relative_url }}" style="text-decoration: none; color: inherit;">
       <img src="/assets/img/wie-ben-ik.jpg" alt="Wie ben ik" style="width: 100%; border-radius: 8px;"/>
       <h3 style="margin-top: 10px;">Wie ben ik</h3>
@@ -45,8 +45,8 @@ title: Welkom
     </a>
   </div>
 
-  <div style="flex: 0 1 calc(50% - 20px); background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <a href="{{ '/2025-05-31-how-i-built-this.html' | relative_url }}" style="text-decoration: none; color: inherit;">
+  <div style="width: 300px; background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <a href="{{ '/how-i-built-this.html' | relative_url }}" style="text-decoration: none; color: inherit;">
       <img src="/assets/img/how-i-built.jpg" alt="Hoe ik deze site heb gebouwd" style="width: 100%; border-radius: 8px;"/>
       <h3 style="margin-top: 10px;">Hoe ik deze site heb gebouwd</h3>
       <p style="color: #666;">Een overzicht van de tools en technologieën die ik gebruikt heb om deze site op te bouwen.</p>
